@@ -144,10 +144,12 @@ p{
 
 }
 
+  /* ---------------------------debut de style page qui somme nous ------------------------ */
+
 /* ---------------------fin css qui somme nous------------------------------ */
 
 
-.heigth_tittle{
+/*.heigth_tittle{
   height: 4px;
   margin: 20px;
   width: 48%;
@@ -168,5 +170,5 @@ p{
   border: 1px groove white;
   top: 30px;
   left: 11vw;
-}
+}*/
 
