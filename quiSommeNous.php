@@ -1,3 +1,6 @@
+<?php  require_once(__DIR__."/partials/head.php") ?>
+
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -13,10 +16,8 @@
  <link rel="stylesheet" href="/css/style.css">
  <title>DOG SHOP</title>
 </head>
-        
-      </body>
-      </html>
-
+<body>
+      
 
 <div class="flex">
     <div class="container-qui-nous-sommes">
@@ -39,9 +40,10 @@
 
                 <P>Outre l’alimentation, nos propres marques comptent également de nombreuses références d’accessoires pour chien, du collier anti-aboiement, aux distributeurs de nourriture, en passant par la sellerie et les jouets pour chien !</P>
                 <P>Nous souhaitons proposer un grand choix d’articles,</p>
-                    
+                </div>          
     </div>
 </div>
-  
 
+  
+      <?php require_once(__DIR__."/partials/footer.php") ?>
 
