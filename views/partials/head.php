@@ -16,7 +16,7 @@
             <a class="navbar-brand" href="#">
                 <img src="/img/logo.png" alt="logo patte de chien marron" height="50"></a>
                 <li class="nav-item">
-                    <a class="nav-link text-secondary" href="/" aria-current="page">ACCUEIL</a>
+                    <a class="nav-link active text-secondary" href="/" aria-current="page">ACCUEIL</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-secondary" href="">NOURRITURE</a>
