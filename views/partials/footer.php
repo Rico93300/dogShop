@@ -1,4 +1,4 @@
-<footer>
+<footer class="container">
         <div class="row">
             <div class="col-lg-4 text-center">
                 <img src="/img/paimentsSecurisés.png" style="height: 50px;" alt="icon cadena"/>
@@ -18,9 +18,9 @@
         </div>
 
 
-        <div class="d-flex align-items-end  bg-dark"  style="height: 85px">
+        <div class="d-flex align-items-end  bg-dark "  style="height: 85px">
             <div class="container">
-                <section class="mt-5">
+                <section class="">
                     <div class="row d-flex justify-content-between pt-5">
                         <div class="col-md-3">
                             <h6 class="text-uppercase font-weight-bold">

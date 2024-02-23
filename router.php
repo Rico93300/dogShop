@@ -5,7 +5,7 @@ $uri = parse_url($_SERVER['REQUEST_URI'])['path'];
 
 // le tableau de routage
 $routes = [
-    //'/' => '/home.php',
+    '/' => '/home.php',
     '/contact' => '/contact.php',
     '/contactValide' => '/contactValide.php',
     '/nourriture' => '/nourriture.php',
