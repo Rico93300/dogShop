@@ -25,14 +25,14 @@
 					<h5 class="card-title">
 						Pedigree Dentastix <strong> 25€</strong>
 					</h5>
+    </div>
 </div>
-</div>
 
 
 
 
 
 
-<div class="min-vh-100"></div>
+
 
 <?php require_once(__DIR__."/partials/footer.php") ?>
