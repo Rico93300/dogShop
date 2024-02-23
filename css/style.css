@@ -1,0 +1,147 @@
+/* ----------------------------debut de style page 404------------------------ */
+  .container{
+      width: 80%;
+    height: 100%;
+    background-color:  #95c2de;;
+    margin: auto;
+   }
+   .mainbox {
+   background: no-repeat center/100% url("img/imagearrondi.png");
+   display: block;
+    margin: auto;
+    height: 1000px;
+    width: 600px;
+    position: relative;
+  }
+  
+    .err {
+      color: #ffffff;
+      font-family: 'Nunito Sans', sans-serif;
+      font-size: 11rem;
+      position:absolute;
+      left: 20%;
+      top: 8%;
+    }
+  
+  .far {
+    position: absolute;
+    font-size: 8.5rem;
+    left: 42%;
+    top: 15%;
+    color: #ffffff;
+  }
+  
+   .err2 {
+      color: #ffffff;
+      font-family: 'Nunito Sans', sans-serif;
+      font-size: 11rem;
+      position:absolute;
+      left: 68%;
+      top: 8%;
+    }
+  
+  .msg {
+      text-align: center;
+      font-family: 'Nunito Sans', sans-serif;
+      font-size: 5.6rem;
+      position:absolute;
+      left: 16%;
+      top: 53%;
+      width: 75%;
+      color: rgb(192, 75, 188);
+    }
+  
+ 
+
+    
+  button.favorite{
+  position: absolute;
+  align-items: center;
+    
+  }
+  button {
+    bottom:10%;
+   right: 10px;
+   left: 10px;
+    width: 300px;
+   margin: auto;
+
+  position: relative;
+      line-height: 2.5;
+      padding: 0 20px;
+      font-size: 1rem;
+      text-align: center;
+      color: #fff;
+      text-shadow: 1px 1px 1px #000;
+      border-radius: 10px;
+      background-color: rgb(220, 92, 0);
+      background-image: linear-gradient(
+        to top left,
+        rgba(0, 0, 0, 0.2),
+        rgba(0, 0, 0, 0.2) 30%,
+        rgba(0, 0, 0, 0)
+      );
+      box-shadow:
+        inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+        inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+    }
+    
+    .styled:hover {
+      background-color: #ff6f00dd;
+    }
+  
+  /* ----------------------------fin de style page 404------------------------ */
+  /* ---------------------------debut de style page qui somme nous ------------------------ */
+.container-qui-nous-sommes{
+  display: flex;
+  margin: 100px auto;
+  flex-direction: column;
+  height: 1000px;
+  width: 950px;
+  padding: 50px;
+  background:  linear-gradient(rgba(241, 191, 243, 0.5), rgba(148, 238, 230, 0.5));
+  -webkit-box-shadow: 0 0 15px #000;
+  box-shadow: 0 0 15px #000;
+  text-align: justify;
+}
+.image3 img{
+ 
+  height:300px;  
+  position: absolute; 
+  z-index: 10;
+   margin-top:600px;
+  margin-left: 580px;
+}
+
+#conteneur_qsn {
+
+  border:2 solid;
+  display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: #1F455F;
+   margin: 60px;
+   padding: 20px;
+   font-size: 30px;
+
+  
+}
+p{
+  font-family : "Italianno", cursive ;  
+   font-size: 30px;
+   font-weight: bold;
+}
+#conteneur_qsn p {
+  margin: 60px;
+  background-color: #fff;
+  font-size: 22px;
+}
+#h1-qsn{
+  font-size: 30px;
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 50px;
+
+}
+
+
