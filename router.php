@@ -9,6 +9,7 @@ $routes = [
     '/contact' => '/contact.php',
     '/contactValide' => '/contactValide.php',
     '/nourriture' => '/nourriture.php',
+    '/accesoire' => '/accesoire.php',
 ];
 
 // la condition qui retourne un fichier si la route existe

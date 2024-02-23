@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/nouriturre.css">
+    <link rel="stylesheet" href="/css/accesoire.css">
     <title>
         <?php if(isset($title)) {
             echo $title;
@@ -25,7 +27,7 @@
                     <a class="nav-link text-secondary" href="jouets">JOUETS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-secondary" href="accesoires">ACCESOIRES</a>
+                    <a class="nav-link text-secondary" href="accesoire">ACCESOIRES</a>
                 </li>
         </ul>
     </nav>
