@@ -24,7 +24,7 @@
                     <div class="row d-flex justify-content-between pt-5">
                         <div class="col-md-3">
                             <h6 class="text-uppercase font-weight-bold">
-                                <a href="" class="text-white">QUI SOMME NOUS</a>
+                                <a href="#" class="text-white">QUI SOMME NOUS</a>
                             </h6>
                         </div>
 
