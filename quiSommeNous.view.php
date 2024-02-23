@@ -1,3 +1,11 @@
+
+<?php
+session_start();
+
+require_once(__DIR__."/view/quiSommeNous.view.php");
+?>
+
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -45,3 +53,4 @@
   
 
 
+<?php require_once(__DIR__."/partials/footer.php") ?>
