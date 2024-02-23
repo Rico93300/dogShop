@@ -19,13 +19,13 @@
                     <a class="nav-link text-secondary" href="/" aria-current="page">ACCUEIL</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-secondary" href="">NOURRITURE</a>
+                    <a class="nav-link text-secondary" href="nourriture">NOURRITURE</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-secondary" href="">JOUETS</a>
+                    <a class="nav-link text-secondary" href="jouets">JOUETS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-secondary" href="">ACCESOIRES</a>
+                    <a class="nav-link text-secondary" href="accesoires">ACCESOIRES</a>
                 </li>
         </ul>
     </nav>
