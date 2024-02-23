@@ -27,7 +27,7 @@
             </div>
         </div>
 
-        <div class="d-flex flex-row-reverse g-5 row-cols-7">
+        <div class="d-flex flex-row-reverse g-5 row-cols-7 mb-4">
                 <button type="submit" class="btn btn-warning text-white fw-bold">Envoyer</button>
         </div>
 
