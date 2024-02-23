@@ -115,6 +115,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 						Croquettes high premium pour chien adulte de grande race : protection du cartilage & articulations, protéines animales de qualité pour le maintien du poids de forme, digestion optimale, pelage soyeux.
 					</p>
 				</div>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img src="img/media.auchan.jpg" class="card-img-top" alt="..." />
@@ -123,8 +124,9 @@ require_once(__DIR__ . "/partials/head.php") ?>
 					<p class="card-text">
 						Canigou boeuf en terrine pour chien boite 1.2kg.
 				</div>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
 			</div>
-			<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+			
 		</div>
 	</div>
 </html>
