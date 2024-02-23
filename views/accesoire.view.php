@@ -30,7 +30,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 						pour eau et nourriture</br> facile a laver.
 					</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img
@@ -39,13 +39,13 @@ require_once(__DIR__ . "/partials/head.php") ?>
 					alt="..."
 				/>
 				<div class="card-body">
-					<h5 class="card-title">Couchette peluche <strong class="m-4"> 30€</strong></h5>
+					<h5 class="card-title">Couchette peluche <strong > 30€</strong></h5>
 					<p class="card-text">
 						couchette tres confortable pour chien voulant passer de bonnes nuit.</br>
 						pour chien de taille moyenne ou grande.
 					</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img
@@ -61,7 +61,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
                         sur et efficace.
 					</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img src="img/zqgsfa1536305834110.jpg" class="card-img-top" alt="..." />
@@ -73,7 +73,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 						existe en differentes couleurs.
 					</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 		</div>
 		<div class="space"></div>
@@ -90,7 +90,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 						Couches pour chiots ou chienne en chaleur de race moyenne ou petites </br>  - 100% doux et confortable-  
 					</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img src="img/dde9a429aad5234e9054d87d29ca489d.jpg" class="card-img-top" alt="..." />
@@ -100,7 +100,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 						Collier dorée popur chier de grosse taille.
                         .</br> peut servir de collier d'etranglement(deconseiller)pour maitriser son chien.
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img
@@ -109,22 +109,22 @@ require_once(__DIR__ . "/partials/head.php") ?>
 					alt="..."
 				/>
 				<div class="card-body">
-					<h5 class="card-title">Couchettte patte<strong class="m-4"> 34€</strong></h5>
+					<h5 class="card-title">Couchettte patte<strong class="m-4">34€</strong></h5>
 					<p class="card-text">
 						Couchette en coton en forme de patte.</br>tres confortable et doux pour nos amis a quetres papattes.
 					</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img src="img/97647_pla_hundebett_hyggelig_fg_4599_3.jpg" class="card-img-top" alt="..." />
 				<div class="card-body">
-					<h5 class="card-title">Couchette rectangle  <strong class="m-5"> 25€</strong></h5>
+					<h5 class="card-title">Couchette rectangle  <strong> 25€</strong></h5>
 					<p class="card-text">
 						Couchette pour nos amis les chien.</br>ils passeront des nuits douces et merveilleuse.</br>
 					a leur prendre d'urgence.</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 				
 			</div>
 		</div>

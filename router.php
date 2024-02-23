@@ -9,6 +9,8 @@ $routes = [
     '/contact' => '/contact.php',
     '/contactValide' => '/contactValide.php',
     '/nourriture' => '/nourriture.php',
+    '/quiSommeNous' => '/quiSommeNous.php',
+    '/jouet' => '/jouet.php',
     '/accesoire' => '/accesoire.php',
 ];
 

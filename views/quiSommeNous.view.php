@@ -1,9 +1,7 @@
 
 <?php
-session_start();
-
-require_once(__DIR__."/view/quiSommeNous.view.php");
-?>
+$title= "Qui somme nous";
+require_once(__DIR__ . "/partials/head.php") ?>
 
 
 <!DOCTYPE html>
