@@ -24,7 +24,7 @@
                     <a class="nav-link text-secondary" href="nourriture">NOURRITURE</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-secondary" href="jouets">JOUETS</a>
+                    <a class="nav-link text-secondary" href="jouet">JOUETS</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-secondary" href="accesoire">ACCESOIRES</a>

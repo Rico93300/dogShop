@@ -34,7 +34,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 						collaboration avec des vétérinaires </br>Sans ajout de sucre
 					</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img
@@ -48,7 +48,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 						Petites friandises pour chien au poulet, bœuf, agneau & saumon, une récompense à donner entre les repas, dans une boîte de conservation pratique. DogMio Barkis - plébiscitées par les chiens !
 					</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img
@@ -64,7 +64,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
                         Purina Pro Plan avec Optibalance
 					</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img src="img/raw_4er_mix_3.jpg" class="card-img-top" alt="..." />
@@ -74,7 +74,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 						Lot de friandises lyophilisées Wolf of Wilderness pour chien à base d'abats ou de poisson pur.</br> Pause gourmande de qualité premium, proche des habitudes naturelles du chien. 
 					</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 		</div>
 		<div class="space"></div>
@@ -91,7 +91,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 						Croquettes pour chiots de race moyenne - 100% complet et équilibré- Sans arôme artificiel ajouté - Au poulet 
 					</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img src="img/BE04163341-p1.jpg" class="card-img-top" alt="..." />
@@ -101,7 +101,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 						caniche adult
                         .</br> Cette pâtée pour caniche adulte favorise un poil sain, le tonus musculaire et stimule l'appétit.
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img
@@ -115,7 +115,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 						Croquettes high premium pour chien adulte de grande race : protection du cartilage & articulations, protéines animales de qualité pour le maintien du poids de forme, digestion optimale, pelage soyeux.
 					</p>
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			<div class="card m-3" style="width: 18rem">
 				<img src="img/media.auchan.jpg" class="card-img-top" alt="..." />
@@ -124,7 +124,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 					<p class="card-text">
 						Canigou boeuf en terrine pour chien boite 1.2kg.
 				</div>
-				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto'>Acheter</button>
+				<button type="submit" class='btn btn-warning d-grid gap-2 col-6 mx-auto mb-3'>Acheter</button>
 			</div>
 			
 		</div>

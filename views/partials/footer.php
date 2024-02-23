@@ -2,18 +2,18 @@
         <div class="row">
             <div class="col-lg-4 text-center">
                 <img src="/img/paimentsSecurisés.png" style="height: 50px;" alt="icon cadena"/>
-                <p>PAIEMENTS SÉCURISÉS CB,<br>
-                    PAYPAL, CHÈQUE</p>
+                <h6>PAIEMENTS SÉCURISÉS CB,<br>
+                    PAYPAL, CHÈQUE</h6>
             </div>
             <div class="col-lg-4 text-center">
                 <img src="/img/livraison.png" style="height: 50px;" alt="icon camion"/>
-                <p>LIVRAISON RAPIDE ET <br>
-                    GRATUITE DÈS 35€ D'ACHAT</p>
+                <h6>LIVRAISON RAPIDE ET <br>
+                    GRATUITE DÈS 35€ D'ACHAT</h6>
             </div>
             <div class="col-lg-4 text-center">
                 <img src="/img/achatSatisfaitOuRemboursé.png" style="height: 50px;" alt="icon calendrier"/>
-                <p>ACHAT SATISFAIT OU <br>
-                    REMBOURSÉ 15 JOURS</p>
+                <h6>ACHAT SATISFAIT OU <br>
+                    REMBOURSÉ 15 JOURS</h6>
             </div>
         </div>
 
@@ -24,7 +24,7 @@
                     <div class="row d-flex justify-content-between pt-5">
                         <div class="col-md-3">
                             <h6 class="text-uppercase font-weight-bold">
-                                <a href="#" class="text-white">QUI SOMME NOUS</a>
+                                <a href="quiSommeNous" class="text-white">QUI SOMME NOUS</a>
                             </h6>
                         </div>
 

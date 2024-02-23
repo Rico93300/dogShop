@@ -14,14 +14,15 @@
  <title>DOG SHOP</title>
 </head>
 <body>
-    <div class="container">
-  <div class="mainbox">
-    
+    <div class="container404">
+  <div class="mainbox col-lg-8 ">
+    <img src="/img/imagearrondi.png" alt=""  style="height: 90%;">
     <div class="err">4</div>
     <i class="far fa-question-circle fa-spin"></i>
     <div class="err2">4</div>
     <div class="msg">OOPS!!!</div>
     <button class="favorite" type="button"> Retourne a la page d'Acceuil</button>
+  </div>
   
 </body>
 </html>
