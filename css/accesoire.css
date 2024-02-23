@@ -1,0 +1,27 @@
+.heigth_tittle{
+    height: 4px;
+    margin: 20px;
+    width: 48%;
+}
+.space{
+    margin: 100px;
+}
+
+ .rabais {
+	position: relative;
+	color: orange;
+	width: 5vw;
+	height: 5vh;
+	background-color: black;
+	font-weight: bold;
+	font-size: 1.5vw;
+	text-align: center;
+	border: 1px groove white;
+	top: 30px;
+	left: 11vw;
+} 
+.card {
+ 
+	box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+	
+   }
