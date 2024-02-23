@@ -21,7 +21,7 @@
     <i class="far fa-question-circle fa-spin"></i>
     <div class="err2">4</div>
     <div class="msg">OOPS!!!</div>
-    <button class="favorite" type="button"> Retourne a la page d'Acceuil</button>
+    <a href="/"><button class="favorite" type="button"> Retourne a la page d'Acceuil</button></a>
   </div>
   
 </body>
