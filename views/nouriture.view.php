@@ -17,7 +17,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 		<div class="d-flex">
 			<div class="card m-3" style="width: 18rem">
 				
-				<div class="rabais"><p>- 30 %</p></div>
+				<div class="rabais rounded-3"><p>- 30 %</p></div>
 				<img
 					src="img/34191_pla_megapack_pedigree_denta_stix_smallhunde_hs_02_1.jpg"
 					class="card-img-top"

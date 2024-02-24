@@ -15,7 +15,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 		<div class="d-flex">
 			<div class="card m-3" style="width: 18rem">
 				
-				<div class="rabais"><p>- 20 %</p></div>
+				<div class="rabais rounded-3"><p>- 20 %</p></div>
 				<img
 					src="img/313523_kumar_hundebar_inklusive_2_edelstahln_pfe_03_dsc5878_8.jpg"
 					class="card-img-top"
