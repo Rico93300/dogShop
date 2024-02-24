@@ -111,7 +111,7 @@ require_once(__DIR__."/partials/head.php");
             <div class="card m-3" style="width: 18rem">
                 <img src="img/Jouet pour chien indestructible.jpg" class="card-img-top" alt="Jouet Intelligent" />
                 <div class="card-body">
-                    <h5 class="card-title">JOUET INTELLIGENT <strong class="m-5"> 20€</strong></h5>
+                    <h5 class="card-title">JOUET INTELLIGENT <strong"> 20€</strong></h5>
                     <p class="card-text">
                         Jouet pour chien indestructible, Son cinétique, mangeur Lent, Jouet Intelligent interactif, avec trou de nourriture pour chien de taille réglable, Jouet Puzzle pour Chien de Taille Moyenne Grande</p>
                 </div>

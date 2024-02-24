@@ -26,7 +26,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 				<div class="card-body">
                     <h4 class="text-center"></h4>
 					<h5 class="card-title">
-						Pedigree Dentastix <strong class="m-4"> 25€</strong>
+						Pedigree Dentastix <strong> 25€</strong>
 					</h5>
 					<p class="card-text"> Daily Oral Care Megapack 105pcs pour les petits
 						chien </br>
@@ -43,7 +43,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 					alt="..."
 				/>
 				<div class="card-body">
-					<h5 class="card-title">DogMio Barkis <strong class="m-5"> 6€</strong></h5>
+					<h5 class="card-title">DogMio Barkis <strong> 6€</strong></h5>
 					<p class="card-text">
 						Petites friandises pour chien au poulet, bœuf, agneau & saumon, une récompense à donner entre les repas, dans une boîte de conservation pratique. DogMio Barkis - plébiscitées par les chiens !
 					</p>
@@ -69,7 +69,7 @@ require_once(__DIR__ . "/partials/head.php") ?>
 			<div class="card m-3" style="width: 18rem">
 				<img src="img/raw_4er_mix_3.jpg" class="card-img-top" alt="..." />
 				<div class="card-body">
-					<h5 class="card-title"> Wolf of Wilderness <strong class="m-4"> 20€</strong></h5>
+					<h5 class="card-title"> Wolf of Wilderness <strong> 20€</strong></h5>
 					<p class="card-text">
 						Lot de friandises lyophilisées Wolf of Wilderness pour chien à base d'abats ou de poisson pur.</br> Pause gourmande de qualité premium, proche des habitudes naturelles du chien. 
 					</p>
