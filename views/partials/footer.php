@@ -1,5 +1,5 @@
 <footer class="container">
-        <div class="row">
+        <div class="row mt-5 mb-5">
             <div class="col-lg-4 text-center">
                 <img src="/img/paimentsSecurisés.png" style="height: 50px;" alt="icon cadena"/>
                 <h6>PAIEMENTS SÉCURISÉS CB,<br>
@@ -18,9 +18,10 @@
         </div>
 
 
-        <div class="d-flex align-items-end  bg-dark "  style="height: 85px">
+
+        <div class="d-flex align-items-end  bg-dark "  style="height: 10%">
             <div class="container">
-                <section class="">
+                <section>
                     <div class="row d-flex justify-content-between pt-5">
                         <div class="col-md-3">
                             <h6 class="text-uppercase font-weight-bold">
@@ -42,7 +43,7 @@
                 </div>
 
 
-                <div class="text-center mx-auto text-white"> © <?= date('Y') ?> 2024 Copyright - DogShop</div>
+                <div class="text-center mx-auto text-white"> © <?= date('Y') ?> Copyright - DogShop</div>
             </div>
         </div>
 
