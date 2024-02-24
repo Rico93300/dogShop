@@ -29,7 +29,7 @@
 
         <div class="g-5">
             <div data-mdb-input-init class="form-outline">
-                <textarea name="message" class="form-control rounded-4 border border-warning" tabindex="4" placeholder="Votre message" cols="30" rows="30" required></textarea>
+                <textarea name="message" class="form-control rounded-4 border border-warning" tabindex="4" placeholder="Votre message" cols="30" rows="30" required maxlength="500"></textarea>
             </div>
         </div>
 

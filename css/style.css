@@ -1,6 +1,6 @@
 /* ----------------------------debut de style page 404------------------------ */
   .container404{
-      width: 80%;
+      width: 100%;
     height: 100%;
     background-color:  #95c2de;;
     margin: auto;
@@ -13,6 +13,14 @@
     width: 600px;
     position: relative;
   }
+
+  .licorneChien{
+    margin-left: -150px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+
+  
   
     .err {
       color: #ffffff;
@@ -20,14 +28,14 @@
       font-size: 11rem;
       position:absolute;
       left: 20%;
-      top: 8%;
+      top: -50px;
     }
   
   .far {
     position: absolute;
     font-size: 8.5rem;
     left: 42%;
-    top: 15%;
+    top: 1px;
     color: #ffffff;
   }
   
@@ -37,7 +45,7 @@
       font-size: 11rem;
       position:absolute;
       left: 68%;
-      top: 8%;
+      top: -50px;
     }
   
   .msg {
@@ -45,7 +53,7 @@
       font-family: 'Nunito Sans', sans-serif;
       font-size: 5.6rem;
       position:absolute;
-      left: 16%;
+      left: 15%;
       top: 53%;
       width: 75%;
       color: rgb(192, 75, 188);
@@ -60,9 +68,9 @@
     
   }
   button {
-    bottom:10%;
+    top: 935px;
    right: 10px;
-   left: 10px;
+   left: 25px;
     width: 300px;
    margin: auto;
 
