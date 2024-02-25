@@ -3,10 +3,14 @@
     require_once(__DIR__ ."/partials/head.php")
 ?>
 
+<link rel="stylesheet" href="/css/homeContact.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Preahvihear&display=swap" rel="stylesheet">
 
 <div class="text-center m-5">
-    <h1>Vous avez une question ?</h1>
-    <p>Laissez nous votre message</p>
+    <h2>Vous avez une question ?</h2>
+    <p>Laissez nous votre  <br>message</p>
 </div>
 
 <form action="contactValide" method="POST" class="d-flex justify-content-evenly">

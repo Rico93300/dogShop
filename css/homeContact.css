@@ -1,0 +1,45 @@
+h2 {
+    color: #2F3B5C;
+    font-family: "Preahvihear", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    color: #b85b2d92;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Preahvihear", sans-serif;
+    font-style: normal;
+}
+
+.banniere{
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 190%;
+  font-family: "Preahvihear", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.textCentre {
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+}
+
+h3 {
+    font-family: "Preahvihear", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 5px;
+    color: #2F3B5C;
+}
+
+.reduction {
+    color: #FFA500;
+    font-size: 90%;
+}
+
